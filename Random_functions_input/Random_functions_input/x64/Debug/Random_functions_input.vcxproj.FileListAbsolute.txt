@@ -1,0 +1,7 @@
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\x64\Debug\Random_functions_input.vcxproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\x64\Debug\Random_functions_input.Input.resources
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\x64\Debug\Random_functions_input.Menu.resources
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\x64\Debug\Random_functions_input.vcxproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\x64\Debug\Random_functions_input.Calculator.resources
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\x64\Debug\Random_functions_input.Bank_System.resources
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\x64\Debug\Random_functions_input.Student_System.resources

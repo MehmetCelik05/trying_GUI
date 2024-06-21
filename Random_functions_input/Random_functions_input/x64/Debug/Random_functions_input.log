@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (Nİce_app.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Bank_System.cpp
+  Input.cpp
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Calculator.h(224,55): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Calculator.h(228,55): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Calculator.h(232,55): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Calculator.h(236,55): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Calculator.h(240,54): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Input.cpp(8,6): warning C4829: Ana işlev için hatalı olabilecek parametreler. 'int main(Platform::Array<Platform::String^>^ argv)' kullanmayı düşünün
+  Menu.cpp
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Calculator.h(224,55): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Calculator.h(228,55): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Calculator.h(232,55): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Calculator.h(236,55): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\Random_functions_input\Calculator.h(240,54): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  Bank_System.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  Random_functions_input.vcxproj -> C:\Users\mehme\OneDrive\Masaüstü\Gui uygulama\Random_functions_input\x64\Debug\Random_functions_input.exe
